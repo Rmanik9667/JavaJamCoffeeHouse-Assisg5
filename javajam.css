@@ -1,0 +1,207 @@
+<style>
+*{
+            box-sizing: border-box;
+}
+#heroroad
+{
+    background-image: url(casestudystarters/javajam/heroroad.jpg);
+    height: 250px;
+    background-repeat: no-repeat;
+}
+#heromug
+{
+    background-image: url(casestudystarters/javajam/heromugs.jpg);
+    background-size: 100%;
+    height: 250px;
+}
+#heroguitar
+{
+    background-image: url(casestudystarters/javajam/heroguitar.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 250px;
+}
+    
+body{
+     background-image: url("casestudystarters/javajam/background.gif");
+            font-family: Verdana , sans-serif;
+}
+h1{
+            background-color:#d2b48c ;
+            color: #221811;
+            margin: 0px;
+            padding-top: 45px;
+            background-image:url("casestudystarters/javajam/javajamlogo.jpg");
+            background-repeat: no-repeat;
+            padding-left: 50px;
+            font-size: 3em;
+            font-family: Georgia , "Times New Roman" , serif;
+            text-indent: 1em;
+            text-shadow: 3px 3px 5px #CCCCCC;
+            text-align: center;
+            margin-left: 0px;
+            padding-bottom: 45px;
+            white-space: nowrap;
+            overflow: hidden;
+}
+
+.floatright {float:right;
+	padding-left:20px;
+}
+
+.floatleft {float:left;
+		padding-right:20px;
+		padding-bottom:20px;
+}
+.details {padding-right:20%;
+	overflow:auto;	
+}
+.indent { margin-right:auto; margin-left:auto; width:90%;
+}
+header{
+    
+height: auto;
+background-position: center;
+background-repeat: no-repeat;
+    
+}
+nav
+{
+            font-weight: bold;
+            font-size: 1.5em;
+            word-spacing: .1em;
+            text-align: center;
+            width: 200px;
+            float: left;
+            padding-top: 0px;  
+}
+nav a:link { color: #fef6c2; }
+nav a:visited { color: #d2b38c; }
+nav a:hover { color: #cc9933; }
+
+nav ul { list-style-type: none; 
+         
+    padding-left: 0;
+}
+main div,h2,p,h3,ul,li,dl
+{
+    padding-left: 3em;
+    padding-right: 2em;
+    font-family: sans-serif;
+    color: black;
+}
+}
+.form
+{
+    width: 70%;
+    margin: 0 auto;
+}
+nav a 
+{
+    text-decoration: none;
+}
+       
+p
+{
+            font-size: .90em;
+            text-indent: 0.1em;
+            
+        
+}
+ul
+{
+            font-weight: bold;
+}
+        
+#content
+{
+    padding: 0px;
+}
+
+footer
+{
+           
+            font-size: 70%;
+            font-style: italic;
+	        background-color: #d2b48c;
+            padding-bottom: 5px;
+            border-top: 2px solid; 
+            color : #221811;
+            text-align: center;
+            clear: both;
+            padding: 10px;
+}
+.feature
+{
+            color:#C70000
+}
+.company
+{
+            font-weight: bold;
+            font-family:  Georgia , "Times New Roman" , serif;
+}
+h4
+{
+    background-color: #D2B48C;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+    padding:5px 0 0 5px;
+    clear:left;
+    padding-right:20px;
+    padding-left: 20px;
+}
+h2
+{
+    font-family: Georgia , "Times New Roman" , serif;
+}
+.floatleft
+{
+    float: left;
+    padding:0 20px 20px 0;
+}
+
+main{
+  
+    padding-bottom: 2em;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: #fef6c2;
+    margin-left: 200px;
+    display: block; 
+}
+header,nav,main,footer
+{
+    display: block;
+}
+
+.details
+{
+    padding-left: 20%;
+    padding-right: 20%;
+    overflow: auto;
+    
+}
+img
+{
+    padding-left: 20%;
+    padding-right: 10px;
+    
+}
+form
+{
+    color: #d2b48c;
+    text-align: justify;
+}
+#wrapper {
+    background-color: #231814;
+    min-width: 900px;
+    max-width: 1280px;
+    box-shadow: 5px 5px 5px black;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+</style>
